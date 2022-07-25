@@ -5,4 +5,5 @@ wget -nc  https://storage.googleapis.com/ai2-jamesp-public/video-contrast-set/ms
 tar -xzf msrvtt/msrvtt_retrieval_data.tar.gz -C msrvtt/
 rm msrvtt/msrvtt_retrieval_data.tar.gz
 
-echo "Extracted 'train.jsonl' and 'val.jsonl' to 'msrvtt' directory!""
+echo "Extracted 'train.jsonl' and 'val.jsonl' to 'msrvtt' directory!"
+
